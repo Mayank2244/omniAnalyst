@@ -1,0 +1,24 @@
+{
+  "name": "omniroute-analytics-",
+  "version": "1.0.0",
+  "description": "> **Flipkart Gridlock 2.0 Hackathon** — Predict. Quantify. Re-Route.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mayank2244/omniAnalyst.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Mayank2244/omniAnalyst/issues"
+  },
+  "homepage": "https://github.com/Mayank2244/omniAnalyst#readme"
+}
